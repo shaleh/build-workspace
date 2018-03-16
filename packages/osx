@@ -1,0 +1,24 @@
+autoconf
+automake
+bash
+bash-completion
+docker
+docker-compose
+docker-ls
+--with-cocoa --with-ctags --with-gnutls --with-modules emacs
+findutils
+go
+gnu-sed
+gnupg
+gnutls
+httpie
+hub
+jq
+pass
+pip-completion
+python
+rustup-init
+sqlite
+telnet
+tree
+wget
