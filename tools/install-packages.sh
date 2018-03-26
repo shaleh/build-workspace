@@ -3,7 +3,7 @@
 do_osx() {
     set -e
 
-    [ -f /usr/local/bin/brew ] || osx/install-brew.sh
+    [ -f /usr/local/bin/brew ] || tools/osx/install-brew.sh
 
     while read i; do
 	echo "Installing $i"
