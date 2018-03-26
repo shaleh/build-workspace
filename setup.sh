@@ -4,6 +4,7 @@ setup_osx() {
     set -e
     tools/install-packages.sh
     tools/setup-repos.sh
+    tools/setup-system.sh
 }
 
 case `uname -s` in
