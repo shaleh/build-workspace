@@ -1,16 +1,20 @@
 autoconf
 automake
+awscli
+aws-shell
 bash
 bash-completion
 docker
 docker-compose
 docker-ls
+docker-credential-helper
 --with-cocoa --with-ctags --with-gnutls --with-modules emacs
 findutils
 go
 gnu-sed
 gnupg
 gnutls
+graphviz
 httpie
 hub
 jq
@@ -22,3 +26,6 @@ sqlite
 telnet
 tree
 wget
+caskroom/cask/java
+caskroom/cask/gimp
+caskroom/cask/iterm2
